@@ -42,6 +42,7 @@ import getpass
 api_key = getpass.getpass("Enter your Gemini API Key: ")
 genai.configure(api_key=api_key)
 ```
+paste your key in the output
 
 ### Run the Grading System
 
@@ -49,8 +50,8 @@ Open and run **main.ipynb** in Jupyter Notebook.
 
 ## Usage
 
-1. **Upload the Question Paper** (Markdown format) once.
-2. **Upload Answer Sheets** multiple times for different students.
+1. **Upload the Question Paper** (pdf) 
+2. **Upload handwritten Answer Sheet** (pdf)
 3. The AI extracts text, maps answers, evaluates responses, and provides **detailed feedback with scoring**.
 4. Adjust **strictness level (1-5)** for more or less leniency in grading.
 5. Get a **final score and improvement summary** for each student.
