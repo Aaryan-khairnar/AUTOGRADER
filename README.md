@@ -15,12 +15,14 @@ This project is an AI-powered grading assistant designed to **automate the gradi
 - **Strictness Level Control (1-5)** to adjust grading leniency
 - **Final Score Calculation & Improvement Suggestions**
 
+## Youtube Video
+- **Here is the link which explains the project:**[Watch this video](https://youtu.be/NwK3Q9IiRAQ?si=3ra4oDM-YBf-W90p)
+
 ## Project Structure
 
 ```
 📦 AI-Answer-Grading
 ├── main.ipynb               # Jupyter Notebook containing the full project
-├── requirements.txt         # Python dependencies
 ├── README.md                # Documentation
 ```
 
