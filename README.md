@@ -16,7 +16,7 @@ This project is an AI-powered grading assistant designed to **automate the gradi
 - **Final Score Calculation & Improvement Suggestions**
 
 ## Youtube Video
-- **Here is the link which explains the project:**[Watch this video](https://youtu.be/NwK3Q9IiRAQ?si=3ra4oDM-YBf-W90p)
+- **Here is the link which explains the project:** [Watch this video](https://youtu.be/NwK3Q9IiRAQ?si=3ra4oDM-YBf-W90p)
 
 ## Project Structure
 
