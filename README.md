@@ -71,14 +71,6 @@ Open and run **main.ipynb** in Jupyter Notebook.
 - Generate **detailed analytics & performance trends**
 - Implement **multi-language support** for grading
 
-## License
-
-This project is **open-source** under the MIT License.
-
-## Contribute
-
-Pull requests & suggestions are welcome! If you find this project helpful, **leave a star on GitHub**!
-
 ---
 
 **Let's make AI-driven education accessible to all!**
